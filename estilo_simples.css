@@ -1,0 +1,41 @@
+/* Medidas Padrões - Início */
+.flex_row{
+	display: flex;
+	flex-direction: row;
+	box-sizing: border-box;
+}
+.flex_col{
+	display: flex;
+	flex-direction: column;
+	box-sizing: border-box;
+}
+.center{
+	justify-content: center;
+	align-items: center;
+}
+
+.T1{ width: 100%; }
+.T2{ width: 50%; }
+.T3{ width: 33.33%; }
+.T4{ width: 25%; }
+
+.clicavel{
+	cursor: pointer;
+ 	transition: 0.1s;
+ }
+ .reticencias{
+	text-overflow: ellipsis;
+	overflow: hidden;
+	white-space: nowrap;
+}
+/* Use a media query to add a breakpoint at 800px: */
+@media screen and (max-width: 800px) {
+	
+	.T1_m{ width: 100%; }
+	.T2_m{ width: 50%; }
+	.flex_col_m{ flex-direction: column; }
+	.center_m {
+		align-items: center;
+		justify-content: center;
+	}
+}
