@@ -1,0 +1,19 @@
+{
+  "name": "simples",
+  "version": "1.0.0",
+  "description": "",
+  "main": "estilo_simples.css",
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/pedro-rcs/simples.git"
+  },
+  "author": "Pedro Cavalcante",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/pedro-rcs/simples/issues"
+  },
+  "homepage": "https://github.com/pedro-rcs/simples#readme"
+}
