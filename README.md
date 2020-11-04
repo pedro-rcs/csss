@@ -10,4 +10,4 @@ Simples. Pensei em chamar o projeto de Simplíssimo mas simples é mais simples.
 
 Tem até endereço para botar no CDN cumpádi.
 
-<link rel="stylesheet" href="https://res.cloudinary.com/simples/raw/upload/v1604439877/simples/estilo_simples_min_jytley.css" />
+`<link rel="stylesheet" href="https://res.cloudinary.com/simples/raw/upload/v1604439877/simples/estilo_simples_min_jytley.css" />`
