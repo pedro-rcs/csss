@@ -1,12 +1,8 @@
-# simples
+# CSSS
 
-Chega de sofrer com o CSS.
+Chega de sofrer com o CSS. Chegou o CSSS, que na verdade ainda é CSS, mas agora com équio.
 
-Chegou a biblioteca mais simprona que painel de jeep.
-
-Na verdade nem biblioteca é. Só juntei algumas classes que mais utilizava e generalizei nesse .css
-
-Simples. Pensei em chamar o projeto de Simplíssimo mas simples é mais simples.
+Mais simprão que painel de Jeep. Juntei algumas classes que mais utilizava e generalizei nesse .css
 
 Tem até endereço para botar no CDN cumpádi.
 
